@@ -1,0 +1,23 @@
+{
+  "name": "react-native-sample",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oura-hideyoshi/react-native-mac.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oura-hideyoshi/react-native-mac/issues"
+  },
+  "homepage": "https://github.com/oura-hideyoshi/react-native-mac#readme",
+  "description": "",
+  "devDependencies": {
+    "electron": "^25.4.0"
+  }
+}
